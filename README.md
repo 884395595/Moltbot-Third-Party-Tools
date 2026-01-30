@@ -1,10 +1,7 @@
 <div align="center">
-<!-- 顶部图片区域：请在此处填写你的图片链接 -->
-<img src="https://lzc-playground-1301583638.cos.ap-chengdu.myqcloud.com/guidelines/395/2d1e594f08782bb6a8752a33e5596150.jpg" alt="2d1e594f08782bb6a8752a33e5596150" style="zoom:25%;" /> 
+<img src="https://lzc-playground-1301583638.cos.ap-chengdu.myqcloud.com/guidelines/395/2d1e594f08782bb6a8752a33e5596150.jpg" alt="2d1e594f08782bb6a8752a33e5596150" style="zoom:15%;" /> 
 
 <br/>
-
-<!-- 蓝色标题按钮 -->
 
 <div style="
     background-color: #2563eb;
@@ -25,13 +22,11 @@
 </p>
 </div>
 
-<!-- 主标题文本 -->
 <h2 style="margin-bottom: 10px; font-size: 20px; font-weight: bold; color: #111827;">全球最大的中文 Clawdbot 社区</h2>
 <p style="color: #374151; font-size: 14px; margin-bottom: 40px; font-weight: 500;">
     一键部署 • 自带网页Token • 专业技术支持
 </p>
 
-<!-- 底部卡片区域 -->
 <div style="
     background-color: white;
     border-radius: 12px;
@@ -41,7 +36,6 @@
     max-width: 800px;
     border: 1px solid #f3f4f6;
 ">
-    <!-- 微信图标与标题 -->
     <div style="
         display: flex;
         align-items: center;
@@ -51,7 +45,6 @@
         font-weight: bold;
         font-size: 14px;
     ">
-        <!-- 微信图标示意 (绿色气泡) -->
         <span style="color: #059669; font-size: 20px; margin-right: 8px;">
             <svg viewBox="0 0 24 24" width="20" height="20" fill="currentColor"><path d="M12 2C6.486 2 2 6.486 2 12c0 5.514 4.486 10 10 10s10-4.486 10-10c0-5.514-4.486-10-10-10zm0 18c-4.411 0-8-3.589-8-8s3.589-8 8-8 8 3.589 8 8-3.589 8-8 8z"/><path d="M13 7h-2v4H7v2h4v4h2v-4h4v-2h-4z"/></svg>
         </span>
