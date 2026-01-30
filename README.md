@@ -1,6 +1,6 @@
 <div align="center">
 <!-- 顶部图片区域：请在此处填写你的图片链接 -->
-<img src="https://lzc-playground-1301583638.cos.ap-chengdu.myqcloud.com/guidelines/395/2d1e594f08782bb6a8752a33e5596150.jpg" alt="2d1e594f08782bb6a8752a33e5596150" style="zoom:50%;" /> 
+<img src="https://lzc-playground-1301583638.cos.ap-chengdu.myqcloud.com/guidelines/395/2d1e594f08782bb6a8752a33e5596150.jpg" alt="2d1e594f08782bb6a8752a33e5596150" style="zoom:25%;" /> 
 
 <br/>
 
@@ -89,7 +89,7 @@
             font-weight: bold;
         ">17612774028</code>
         
-        <code style="
+        <p style="
             background-color: #f3f4f6;
             border: 1px solid #e5e7eb;
             border-radius: 6px;
@@ -98,7 +98,7 @@
             font-size: 14px;
             color: #1f2937;
             font-weight: bold;
-        ">13986165101</code>
+        ">13986165101</p>
     </div>
 </div>
 
@@ -108,3 +108,8 @@ Moltbot+telegram:[moltbot&telegram](https://github.com/wlabbyflower/Moltbot-Thir
 
 Moltbot+飞书:[Moltbot&飞书](https://github.com/wlabbyflower/Moltbot-Third-Party-Tools/blob/main/Moltbot%20%E6%8E%A5%E5%85%A5%E9%A3%9E%E4%B9%A6.md)
 
+<p align="center">
+  <a href="https://lazycat.cloud/">
+    <img src="https://img.shields.io/badge/立即开启_懒猫微服-FF69B4?style=for-the-badge" alt="LazyCat Button">
+  </a>
+</p>
