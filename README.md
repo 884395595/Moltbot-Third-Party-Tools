@@ -110,6 +110,6 @@ Moltbot+飞书:[Moltbot&飞书](https://github.com/wlabbyflower/Moltbot-Third-Pa
 
 <p align="center">
   <a href="https://lazycat.cloud/">
-    <img src="https://img.shields.io/badge/立即开启_懒猫微服-FF69B4?style=for-the-badge" alt="LazyCat Button">
+    <img src="https://img.shields.io/static/v1?label=%E6%87%92%E7%8C%AB%E5%BE%AE%E6%9C%8D&message=%E7%AB%8B%E5%8D%B3%E5%BC%80%E5%90%AF&color=333333&style=pill&logo=googlecloud" height="45">
   </a>
 </p>
